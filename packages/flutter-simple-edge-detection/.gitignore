@@ -1,0 +1,16 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+
+example/build
+example/.idea
+
+*.iml
+
+.idea
+
+android/.cxx

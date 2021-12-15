@@ -1,0 +1,4 @@
+enum OnlineSearchOption {
+  DR,
+  Bookdepository,
+}
