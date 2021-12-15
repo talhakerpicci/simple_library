@@ -64,7 +64,7 @@ git clone https://github.com/N1ght-Fury/simple_library
 ### Installing NDK Version 22.0.7026061
 - Open Android Studio
 - Navigate to Android Sdk -> SDK Tools
-- CLick on `Show Package Details` at the bottom right
+- Click on `Show Package Details` at the bottom right
 - Expand NDK tab and make sure you have version 22.0.7026061 installed. If not install it
 
 ### Running the project
